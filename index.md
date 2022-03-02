@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Github.io 연습?
 
 You can use the [editor on GitHub](https://github.com/blackbeandu/220302_github_io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
